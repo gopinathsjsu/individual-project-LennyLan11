@@ -21,6 +21,6 @@ To set up the Credit Card System, you will need to have Java installed on your m
    ```sh
    javac -d . src/creditcardsystem/*.java
 ## Part I deliveriable:
-See folder Part I in for the submission content. 
+See file "CMPE202 Individual Project partI" for the submission content. 
 ## Part II deliveriable:
-See folder Part II in for the submission content. 
+See file "personal project 202 partII" for the submission content. 
